@@ -1,5 +1,6 @@
 module Liquid
   module Rails
-    VERSION = '1.0.0'
+    # version matches compatible Rails version
+    VERSION = '6.0.0'
   end
 end
